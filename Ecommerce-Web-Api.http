@@ -4,3 +4,8 @@ GET {{Ecommerce_Web_Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET http://localhost:5160
+
+###
+POST http://localhost:5160

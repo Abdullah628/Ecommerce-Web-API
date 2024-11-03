@@ -31,3 +31,4 @@ E:\New folder\webApi\Ecommerce-Web-Api\obj\Debug\net8.0\refint\Ecommerce-Web-Api
 E:\New folder\webApi\Ecommerce-Web-Api\obj\Debug\net8.0\Ecommerce-Web-Api.pdb
 E:\New folder\webApi\Ecommerce-Web-Api\obj\Debug\net8.0\Ecommerce-Web-Api.genruntimeconfig.cache
 E:\New folder\webApi\Ecommerce-Web-Api\obj\Debug\net8.0\ref\Ecommerce-Web-Api.dll
+E:\New folder\webApi\Ecommerce-Web-Api\obj\Debug\net8.0\Ecommerce-Web-Api.sourcelink.json
